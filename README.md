@@ -1,1 +1,3 @@
 # financeManageFont
+
+npm install
